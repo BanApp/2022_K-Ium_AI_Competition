@@ -1,0 +1,53 @@
+2022년 k-ium 의료인공지능경진대회
+단국대학교 컴퓨터공학과 정민준
+
+jmj284@gmail.com, 010-9391-0801
+<데이터 전처리 및 모델 사용&평가>
+<학습 및 테스트 환경>
+
+본 프로그램은 'Google Colab' 환경에서 작성 되었습니다.
+플랫폼: 'Goolge Colab'
+GPU: Tesla T4
+GPU API: cuda
+
+사용한 언어 및 라이브러리는 아래와 같습니다. 
+<언어> 
+
+1. python3
+Version: 3.7.14 (default, Sep 8 2022, 00:06:44)
+GCC 7.5.0
+<라이브러리> 
+
+1. transformers
+Version: 4.23.1
+License: Apache
+2. torch
+Version: 1.12.1+cu113
+License: BSD-3
+3. tensorflow)
+Version: 2.9.2
+License: Apache 2.0
+4. keras
+Version: 2.9.0
+License: Apache 2.0
+5. scikit-learn
+Version: 1.0.2
+License: new BSD
+6. pandas
+Version: 1.3.5
+License: BSD-3-Clause
+7. numpy
+Version: 1.21.6
+License: BSD
+8. matplotlib
+Version: 3.2.2
+License: PSF
+<사전학습모델>
+
+bert-base-multilingual-cased
+License: Apache 2.0
+<참고자료>
+
+https://mccormickml.com/2019/07/22/BERT-fine-tuning/
+https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP#scrollTo=P58qy4--s5_x
+https://velog.io/@seolini43/일상연애-주제의-한국어-대화-BERT로-이진-분류-모델-만들기파이썬Colab-코드
