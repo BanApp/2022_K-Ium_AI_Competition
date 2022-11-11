@@ -11,3 +11,10 @@
 ### 플랫폼: 'Goolge Colab'
 ### GPU: Tesla T4
 ### GPU API: cuda
+### 사전 학습 모델 : bert-base-multilingual-cased
+
+
+### <약 6900개 1차 데이터로 학습후, 약 2900개의 2차 데이터로 평가 결과>
+<img width="504" alt="auc_score" src="https://user-images.githubusercontent.com/93313445/201343026-9f0ef675-0874-4a28-80cf-7fbaf1c89dde.png">
+
+### AUC Score) 0.996171
