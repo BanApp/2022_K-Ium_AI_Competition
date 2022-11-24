@@ -1,6 +1,11 @@
-# k-ium-AI-
+# K-Ium_AI(급성 허혈성 뇌졸중 판독문 분류를 위한 인공지능 모형(BERT))
 
-## bert 모델을 활용한 급성 허혈성 뇌졸중 판독문 분류를 위한 인공지능 모형
+# 최종결과
+## 최우수상(경북대병원장 상 수상 + 상금 300만원):fire:
+
+![IMG_9747](https://user-images.githubusercontent.com/93313445/203766646-5a3c17c2-31b2-4f62-a131-bd486823a161.jpg)
+
+## BERT 모델을 활용한 급성 허혈성 뇌졸중 판독문 분류를 위한 인공지능 모형
 
 ## 대회링크: https://www.k-ium.com/home/index
 
@@ -18,3 +23,6 @@
 <img width="504" alt="auc_score" src="https://user-images.githubusercontent.com/93313445/201343026-9f0ef675-0874-4a28-80cf-7fbaf1c89dde.png">
 
 ### AUC Score) 0.996171
+
+
+
