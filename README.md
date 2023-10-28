@@ -7,7 +7,7 @@
 
 ## 최종결과: 최우수상(경북대병원장 상 수상 + 상금 300만원):fire:
 
-![IMG_9747](https://user-images.githubusercontent.com/93313445/203766646-5a3c17c2-31b2-4f62-a131-bd486823a161.jpg)
+<!--![IMG_9747](https://user-images.githubusercontent.com/93313445/203766646-5a3c17c2-31b2-4f62-a131-bd486823a161.jpg)-->
 
 
 ## 대회링크: https://www.k-ium.com/home/index
@@ -30,9 +30,6 @@
   </tr>
   <tr>
       <td align="center">👦🏻 정민준 (Tensorflow, Pandas)</td>
-  </tr>
-  <tr>
-      <td align="center">단국대학교<br/>컴퓨터공학과<br/></td>
   </tr>
 </table>
 <br/><br/>
