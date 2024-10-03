@@ -29,7 +29,7 @@
 
   </tr>
   <tr>
-      <td align="center">👦🏻 정민준 (Tensorflow, Pandas)</td>
+      <td align="center">👦🏻 @@@ (Tensorflow, Pandas)</td>
   </tr>
 </table>
 <br/><br/>
